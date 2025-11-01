@@ -80,7 +80,25 @@ app/src/main/java/com/example/myapplication/
 
 2. Sync Gradle and build the project
 3. Run on an emulator or connect your Android device via USB
-| Login Screen                    | Home Page                     | Add Expense                         | View Expenses                         |
-| ------------------------------- | ----------------------------- | ----------------------------------- | ------------------------------------- |
-| ![Login](login.jpg)             | ![Home](home.jpg)             | ![Add](add_expense.jpg)             | ![View](viewexpenses.jpg)             |
+## 🖼️ Screenshots
+
+<p align="center">
+  <img src="login.jpg" alt="Login Screen" width="300"/><br/>
+  <b>Login Screen</b>
+</p>
+
+<p align="center">
+  <img src="home.jpg" alt="Home Page" width="300"/><br/>
+  <b>Home Page</b>
+</p>
+
+<p align="center">
+  <img src="screenshots/add_expense.jpg" alt="Add Expense" width="300"/><br/>
+  <b>Add Expense Page</b>
+</p>
+
+<p align="center">
+  <img src="viewexpenses.jpg" alt="View Expense" width="300"/><br/>
+  <b>View Expenses</b>
+</p>
 
