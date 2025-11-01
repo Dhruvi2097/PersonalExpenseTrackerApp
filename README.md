@@ -82,5 +82,5 @@ app/src/main/java/com/example/myapplication/
 3. Run on an emulator or connect your Android device via USB
 | Login Screen                    | Home Page                     | Add Expense                         | View Expenses                         |
 | ------------------------------- | ----------------------------- | ----------------------------------- | ------------------------------------- |
-| ![Login](login.jpg) | ![Home](screenshots/home.jpg) | ![Add](screenshots/add_expense.jpg) | ![View](screenshots/view_expense.jpg) |
+| ![Login](login.jpg)             | ![Home](home.jpg)             | ![Add](add_expense.jpg)             | ![View](view_expense.jpg)             |
 
