@@ -86,7 +86,7 @@ app/src/main/java/com/example/myapplication/
   <img src="login.jpg" alt="Login Screen" width="180" style="margin: 10px;"/>
   <img src="home.jpg" alt="Home Page" width="180" style="margin: 10px;"/>
   <img src="addexpense.jpg" alt="Add Expense" width="180" style="margin: 10px;"/>
-  <img src="screenshots/view_expense.jpg" alt="View Expenses" width="180" style="margin: 10px;"/>
+  <img src="view_expense.jpg" alt="View Expenses" width="180" style="margin: 10px;"/>
 </p>
 
 <p align="center">
