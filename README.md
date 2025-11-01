@@ -38,27 +38,6 @@ It includes secure **user registration**, **login**, and **CRUD (Create, Read, U
 
 ---
 
-## 🗂️ Project Structure
-
-app/src/main/java/com/example/myapplication/
-│
-├── DBHelper.java # Handles SQLite database operations
-├── LoginActivity.java # User login page
-├── RegisterActivity.java # User registration
-├── HomeActivity.java # Dashboard after login
-├── AddExpenseActivity.java # Add new expenses
-├── ViewExpensesActivity.java # View, Update, Delete expenses
-├── UpdateExpenseActivity.java # Update expense details
-│
-└── res/layout/
-├── activity_login.xml
-├── activity_register.xml
-├── activity_home.xml
-├── activity_add_expense.xml
-├── activity_view_expenses.xml
-├── dialog_confirm_delete.xml
-
----
 
 ## 🧠 How It Works
 
@@ -92,4 +71,20 @@ app/src/main/java/com/example/myapplication/
 <p align="center">
   <b>Login</b>  <b>Home</b>  <b>Add Expense</b>  <b>View Expense</b>
 </p>
+🔮 Future Enhancements
 
+- Add monthly spending charts (using MPAndroidChart)
+-  Enable expense filtering by category or date
+-   Add cloud backup support using Firebase
+-  iplement dark/light theme toggle
+- Export data to PDF or Exce
+
+👩‍💻 Author
+
+Dhruvi D. Patel
+- Diploma in Computer Engineering
+- Gujarat Technological University
+
+🧾 License
+- This project is created as part of the Mobile Application Development (MAD) subject and is open for learning and academic use.
+- Feel free to modify or enhance it with proper credit.
