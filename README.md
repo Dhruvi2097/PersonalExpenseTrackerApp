@@ -83,22 +83,13 @@ app/src/main/java/com/example/myapplication/
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="login.jpg" alt="Login Screen" width="300"/><br/>
-  <b>Login Screen</b>
+  <img src="login.jpg" alt="Login Screen" width="180" style="margin: 10px;"/>
+  <img src="home.jpg" alt="Home Page" width="180" style="margin: 10px;"/>
+  <img src="screenshots/add_expense.jpg" alt="Add Expense" width="180" style="margin: 10px;"/>
+  <img src="screenshots/view_expense.jpg" alt="View Expenses" width="180" style="margin: 10px;"/>
 </p>
 
 <p align="center">
-  <img src="home.jpg" alt="Home Page" width="300"/><br/>
-  <b>Home Page</b>
-</p>
-
-<p align="center">
-  <img src="screenshots/add_expense.jpg" alt="Add Expense" width="300"/><br/>
-  <b>Add Expense Page</b>
-</p>
-
-<p align="center">
-  <img src="viewexpenses.jpg" alt="View Expense" width="300"/><br/>
-  <b>View Expenses</b>
+  <b>Login</b>  <b>Home</b>  <b>Add Expense</b>  <b>View Expense</b>
 </p>
 
